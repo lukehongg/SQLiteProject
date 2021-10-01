@@ -20,4 +20,11 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>myfirst.db</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/sqlite-tools-win32-x86-3360000/sqlite-tools-win32-x86-3360000/db/myfirst.db</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
